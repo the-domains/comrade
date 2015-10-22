@@ -1,0 +1,23 @@
+name: comrade
+favicon: null
+layout_spectrum: 0.9687946098856628
+typography_spectrum: 0.4684593342244625
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.8427153825759888
+  lightness: 0.5673295925371349
+  saturation: 0.4996552236843854
+  rhythmicContrast: 0.2982035370077938
+purpose: []
